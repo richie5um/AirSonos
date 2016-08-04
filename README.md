@@ -4,6 +4,8 @@
 
 A basic macOS menu bar wrapper around the AirSonos Node app.
 
+![Screenshot](Resources/Screenshot.png)
+
 Just download the release and run - https://github.com/richie5um/AirSonos/releases
 
 Works on my machine (10.11.6).
